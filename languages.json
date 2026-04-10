@@ -1,0 +1,230 @@
+{
+  "en": {
+    "meta": { "name": "English", "flag": "🇬🇧", "code": "en" },
+    "welcome": {
+      "title": "🔵🔴 Welcome to Culers Hub!",
+      "body": "Your ultimate FC Barcelona companion bot.\nChoose your language to get started.",
+      "language_prompt": "🌐 Please select your language:"
+    },
+    "menu": {
+      "main_title": "🏟️ Main Menu",
+      "latest_news": "📰 Latest News",
+      "todays_match": "⚽ Today's Match",
+      "standings": "📊 Standings",
+      "live_subscribe": "🔔 Subscribe to Live Updates",
+      "live_unsubscribe": "🔕 Unsubscribe from Live Updates",
+      "change_language": "🌐 Change Language",
+      "back": "⬅️ Back"
+    },
+    "standings": {
+      "title": "📊 Standings",
+      "la_liga": "🇪🇸 La Liga",
+      "ucl": "🏆 UEFA Champions League",
+      "pos": "Pos",
+      "team": "Team",
+      "pts": "Pts",
+      "w": "W",
+      "d": "D",
+      "l": "L",
+      "gd": "GD"
+    },
+    "match": {
+      "title": "⚽ Today's Match",
+      "no_match": "😴 No match today. Rest day for Barça!",
+      "venue": "🏟️ Venue",
+      "referee": "🟨 Referee",
+      "kickoff": "⏰ Kick-off",
+      "lineup": "📋 Line-up",
+      "score": "🔢 Score",
+      "live": "🔴 LIVE",
+      "ht": "⏸ Half Time",
+      "ft": "✅ Full Time",
+      "not_started": "🕐 Not Started",
+      "loading": "⏳ Loading match data..."
+    },
+    "news": {
+      "title": "📰 Latest News",
+      "loading": "⏳ Fetching latest news...",
+      "no_news": "📭 No news available right now.",
+      "read_more": "Read more →",
+      "ai_summary": "🤖 AI Summary",
+      "source": "Source"
+    },
+    "live": {
+      "subscribed": "✅ You're now subscribed to live match updates! You'll be notified 15 mins before kick-off.",
+      "unsubscribed": "🔕 Unsubscribed from live updates.",
+      "already_subscribed": "✅ You're already subscribed!",
+      "not_subscribed": "ℹ️ You're not currently subscribed.",
+      "broadcast_header": "🔴 LIVE UPDATE — {minute}'",
+      "goal": "⚽🎉 GOOOAL! Barcelona scores!",
+      "goal_against": "😱 Goal conceded...",
+      "yellow_card": "🟨 Yellow card",
+      "red_card": "🟥 Red card!",
+      "substitution": "🔄 Substitution",
+      "match_start": "🏁 The match has started! Let's go Barça! 🔵🔴",
+      "half_time": "⏸ Half time! Come back in 15 minutes.",
+      "full_time": "🏁 Full Time! Thanks for following with Culers Hub 🔵🔴"
+    },
+    "errors": {
+      "generic": "⚠️ Something went wrong. Please try again.",
+      "api_down": "⚠️ Data service temporarily unavailable. Retrying soon.",
+      "no_data": "📭 No data available at the moment."
+    },
+    "cache": {
+      "refreshed": "🔄 Data refreshed!",
+      "last_updated": "Last updated"
+    }
+  },
+  "ar": {
+    "meta": { "name": "العربية", "flag": "🇸🇦", "code": "ar" },
+    "welcome": {
+      "title": "🔵🔴 مرحباً بك في Culers Hub!",
+      "body": "رفيقك الأمثل لمتابعة نادي برشلونة.\nاختر لغتك للبدء.",
+      "language_prompt": "🌐 الرجاء اختيار لغتك:"
+    },
+    "menu": {
+      "main_title": "🏟️ القائمة الرئيسية",
+      "latest_news": "📰 آخر الأخبار",
+      "todays_match": "⚽ مباراة اليوم",
+      "standings": "📊 الترتيب",
+      "live_subscribe": "🔔 اشترك في التحديثات المباشرة",
+      "live_unsubscribe": "🔕 إلغاء الاشتراك في التحديثات",
+      "change_language": "🌐 تغيير اللغة",
+      "back": "⬅️ رجوع"
+    },
+    "standings": {
+      "title": "📊 الترتيب",
+      "la_liga": "🇪🇸 الدوري الإسباني",
+      "ucl": "🏆 دوري أبطال أوروبا",
+      "pos": "المركز",
+      "team": "الفريق",
+      "pts": "النقاط",
+      "w": "ف",
+      "d": "ت",
+      "l": "خ",
+      "gd": "فارق الأهداف"
+    },
+    "match": {
+      "title": "⚽ مباراة اليوم",
+      "no_match": "😴 لا توجد مباراة اليوم. يوم راحة لبرشلونة!",
+      "venue": "🏟️ الملعب",
+      "referee": "🟨 الحكم",
+      "kickoff": "⏰ موعد الانطلاق",
+      "lineup": "📋 التشكيلة",
+      "score": "🔢 النتيجة",
+      "live": "🔴 مباشر",
+      "ht": "⏸ نهاية الشوط الأول",
+      "ft": "✅ نهاية المباراة",
+      "not_started": "🕐 لم تبدأ بعد",
+      "loading": "⏳ جارٍ تحميل بيانات المباراة..."
+    },
+    "news": {
+      "title": "📰 آخر الأخبار",
+      "loading": "⏳ جارٍ جلب آخر الأخبار...",
+      "no_news": "📭 لا تتوفر أخبار حالياً.",
+      "read_more": "اقرأ المزيد →",
+      "ai_summary": "🤖 ملخص الذكاء الاصطناعي",
+      "source": "المصدر"
+    },
+    "live": {
+      "subscribed": "✅ تم اشتراكك في التحديثات المباشرة! ستتلقى إشعاراً قبل 15 دقيقة من الانطلاق.",
+      "unsubscribed": "🔕 تم إلغاء اشتراكك في التحديثات المباشرة.",
+      "already_subscribed": "✅ أنت مشترك بالفعل!",
+      "not_subscribed": "ℹ️ لست مشتركاً حالياً.",
+      "broadcast_header": "🔴 تحديث مباشر — الدقيقة {minute}",
+      "goal": "⚽🎉 جووول! برشلونة يسجل!",
+      "goal_against": "😱 استقبل برشلونة هدفاً...",
+      "yellow_card": "🟨 بطاقة صفراء",
+      "red_card": "🟥 بطاقة حمراء!",
+      "substitution": "🔄 تبديل",
+      "match_start": "🏁 انطلقت المباراة! هيا برشلونة! 🔵🔴",
+      "half_time": "⏸ نهاية الشوط الأول! عودوا بعد 15 دقيقة.",
+      "full_time": "🏁 نهاية المباراة! شكراً لمتابعتكم مع Culers Hub 🔵🔴"
+    },
+    "errors": {
+      "generic": "⚠️ حدث خطأ ما. يرجى المحاولة مرة أخرى.",
+      "api_down": "⚠️ خدمة البيانات متوقفة مؤقتاً. جارٍ إعادة المحاولة.",
+      "no_data": "📭 لا تتوفر بيانات في الوقت الحالي."
+    },
+    "cache": {
+      "refreshed": "🔄 تم تحديث البيانات!",
+      "last_updated": "آخر تحديث"
+    }
+  },
+  "fr": {
+    "meta": { "name": "Français", "flag": "🇫🇷", "code": "fr" },
+    "welcome": {
+      "title": "🔵🔴 Bienvenue sur Culers Hub!",
+      "body": "Votre compagnon ultime pour suivre le FC Barcelone.\nChoisissez votre langue pour commencer.",
+      "language_prompt": "🌐 Veuillez sélectionner votre langue :"
+    },
+    "menu": {
+      "main_title": "🏟️ Menu Principal",
+      "latest_news": "📰 Dernières Nouvelles",
+      "todays_match": "⚽ Match du Jour",
+      "standings": "📊 Classement",
+      "live_subscribe": "🔔 S'abonner aux mises à jour en direct",
+      "live_unsubscribe": "🔕 Se désabonner des mises à jour",
+      "change_language": "🌐 Changer de langue",
+      "back": "⬅️ Retour"
+    },
+    "standings": {
+      "title": "📊 Classement",
+      "la_liga": "🇪🇸 La Liga",
+      "ucl": "🏆 Ligue des Champions UEFA",
+      "pos": "Pos",
+      "team": "Équipe",
+      "pts": "Pts",
+      "w": "V",
+      "d": "N",
+      "l": "D",
+      "gd": "Diff"
+    },
+    "match": {
+      "title": "⚽ Match du Jour",
+      "no_match": "😴 Pas de match aujourd'hui. Journée de repos pour le Barça!",
+      "venue": "🏟️ Stade",
+      "referee": "🟨 Arbitre",
+      "kickoff": "⏰ Coup d'envoi",
+      "lineup": "📋 Composition",
+      "score": "🔢 Score",
+      "live": "🔴 EN DIRECT",
+      "ht": "⏸ Mi-temps",
+      "ft": "✅ Fin du Match",
+      "not_started": "🕐 Pas encore commencé",
+      "loading": "⏳ Chargement des données du match..."
+    },
+    "news": {
+      "title": "📰 Dernières Nouvelles",
+      "loading": "⏳ Récupération des dernières nouvelles...",
+      "no_news": "📭 Aucune nouvelle disponible pour l'instant.",
+      "read_more": "Lire la suite →",
+      "ai_summary": "🤖 Résumé IA",
+      "source": "Source"
+    },
+    "live": {
+      "subscribed": "✅ Vous êtes maintenant abonné aux mises à jour en direct ! Vous serez notifié 15 minutes avant le coup d'envoi.",
+      "unsubscribed": "🔕 Désabonné des mises à jour en direct.",
+      "already_subscribed": "✅ Vous êtes déjà abonné !",
+      "not_subscribed": "ℹ️ Vous n'êtes pas actuellement abonné.",
+      "broadcast_header": "🔴 MISE À JOUR EN DIRECT — {minute}'",
+      "goal": "⚽🎉 BUUUT ! Barcelone marque !",
+      "goal_against": "😱 But encaissé...",
+      "yellow_card": "🟨 Carton jaune",
+      "red_card": "🟥 Carton rouge !",
+      "substitution": "🔄 Remplacement",
+      "match_start": "🏁 Le match a commencé ! Allez le Barça ! 🔵🔴",
+      "half_time": "⏸ Mi-temps ! Revenez dans 15 minutes.",
+      "full_time": "🏁 Fin du match ! Merci de nous avoir suivis sur Culers Hub 🔵🔴"
+    },
+    "errors": {
+      "generic": "⚠️ Une erreur s'est produite. Veuillez réessayer.",
+      "api_down": "⚠️ Service de données temporairement indisponible. Nouvelle tentative bientôt.",
+      "no_data": "📭 Aucune donnée disponible pour le moment."
+    },
+    "cache": {
+      "refreshed": "🔄 Données actualisées !",
+      "last_updated": "Dernière mise à jour"
+    }
+  }
+}
